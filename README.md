@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Hi, my name is Ilnaz. 
 
-You can use the [editor on GitHub](https://github.com/IlnazMan/IlnazMan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm an android developer. I have been developing android apps since 2015.
 
 ### Markdown
 
