@@ -1,6 +1,6 @@
 ## Hi, my name is Ilnaz.
 
-I'm a mobile applications developer. Novadays I work in X5 Retail Group as a senior android developer.
+I'm from Innopolis, Tatarstan. I'm a mobile applications developer. Novadays I work in X5 Retail Group as a senior android developer.
 Besides my professional careers, I'm interested in science. I'm a junior researcher. Quantum computation and machine learning are interesting research areas for me. 
 
 I like to read the books. I prefer historical, scientific, non-fiction books. Periodically I read some self-development stuff.
@@ -16,7 +16,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 - 2014-2016 - teacher in [Samsung IT School](https://myitschool.ru/)
 - 2015-2017 - Mobile Developer in [HalalGuide](https://halalguide.me/kazan)
 - 2017-2019 - Android Developer in [Technokratos](https://technokratos.com/)
-- 2019-present - Android Developer in X5 Retail Group
+- 2019-present - Android Developer in [X5 Retail Group](https://www.x5.ru/ru)
 - 2020-2020 - Junior researcher in [Kazan Federal University](https://kpfu.ru)
 - 2017-2020 - IOS and Android Developer in [DostavkaLab](https://dostavkalab.ru/)
 
@@ -40,7 +40,5 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 
 My favourite citation:
 
-```
-Ни чәчсәң шуны урырсың
-```
+![](https://quran-online.ru/ayats-png/2_268.png)
 
