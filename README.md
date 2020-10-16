@@ -10,6 +10,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 
 ## CV
 - 2013-2014 - Sysadmin in [ITPlus](http://itplus.ru/)
+- 2015-2015 - Android Developer in [Fix](https://fix.ru/)
 - 2014-2016 - teacher in [Samsung IT School](https://myitschool.ru/)
 - 2015-2017 - Mobile Developer in [HalalGuide](https://halalguide.me/kazan)
 - 2017-2019 - Android Developer in [Technokratos](https://technokratos.com/)
@@ -20,4 +21,16 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 ## Education
 - 2009-2014 - Kazan Federal University, Institute of Computer Mathematics and Information Technologies
 - 2014-2020 - PhD student in Kazan Federal University, Institute of Computer Mathematics and Information Technologies
+
+## Skills
+- Java, Kotlin, Swift, ObjC
+- Rx(-), Kotlin Coroutines
+- Android SDK, IOS SDK
+- Clean Architecture, MVP, MVI
+- Sensors, Gestures Recognizing (Android)
+- ORMs (Room, ORMLite etc.)
+- Android Architecture Components
+- CocoaPods, Alamofire
+- WebSockets
+- Gradle, Retrofit, Gson, OkHttp
 
