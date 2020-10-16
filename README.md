@@ -1,7 +1,7 @@
 ## Hi, my name is Ilnaz.
 
 I'm a mobile applications developer. Novadays I work in X5 Retail Group as a senior android developer.
-Besides my professional careers, I'm interested in science. I'm a junior researcher. Quantum computation and machine learning are interesting scientific directions for me. 
+Besides my professional careers, I'm interested in science. I'm a junior researcher. Quantum computation and machine learning are interesting scientific domains for me. 
 
 I like to read the books. I prefer historical, scientific, non-fiction books. Periodically I read some self-development stuff.
 
