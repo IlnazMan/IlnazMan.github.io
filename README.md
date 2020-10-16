@@ -40,5 +40,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 
 My favourite citation:
 
-```Ни чәчсәң шуны урырсың```
+```
+Ни чәчсәң шуны урырсың
+```
 
