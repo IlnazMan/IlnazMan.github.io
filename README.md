@@ -24,7 +24,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 
 ## Skills
 - Java, Kotlin, Swift, ObjC
-- Rx(-), Kotlin Coroutines
+- Rx(...), Kotlin Coroutines
 - Android SDK, IOS SDK
 - Clean Architecture, MVP, MVI
 - Sensors, Gestures Recognizing (Android)
