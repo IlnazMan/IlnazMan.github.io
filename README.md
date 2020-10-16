@@ -31,6 +31,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 - ORMs (Room, ORMLite etc.)
 - Android Architecture Components
 - CocoaPods, Alamofire
-- WebSockets
+- WebSockets, REST API
 - Gradle, Retrofit, Gson, OkHttp
+- GeoLocation, Maps, Firebase, Push Notifications
 
