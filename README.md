@@ -40,5 +40,8 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 
 My favourite ayah from Quran (2:268):
 
-![The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.](https://quran-online.ru/ayats-png/2_268.png)
+![](https://quran-online.ru/ayats-png/2_268.png)
+```
+The Evil one threatens you with poverty and bids you to conduct unseemly. Allah promiseth you His forgiveness and bounties. And Allah careth for all and He knoweth all things.
+```
 
