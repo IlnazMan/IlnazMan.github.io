@@ -3,6 +3,8 @@
 I'm a mobile applications developer. Novadays I work in X5 Retail Group as a senior android developer.
 Besides my professional careers, I'm interested in science. I'm a junior researcher. Quantum computation and machine learning are interesting scientific directions for me. 
 
+I like to read the books. I prefer historical, scientific, non-fiction books. Periodically I read some self-development stuff.
+
 My personal page in [KPFU](https://kpfu.ru/ilnaz.mannapov). 
 My [CV page in HH](https://kazan.hh.ru/resume/75fac962ff01de33590039ed1f797579787850). 
 My [LinkedIn Page](https://www.linkedin.com/in/ilnaz-mannapov-78a4ba191/).
