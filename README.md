@@ -6,6 +6,7 @@ Besides my professional careers, I'm interested in science. I'm a junior researc
 My personal page in [KPFU](https://kpfu.ru/ilnaz.mannapov). 
 My [CV page in HH](https://kazan.hh.ru/resume/75fac962ff01de33590039ed1f797579787850). 
 My [LinkedIn Page](https://www.linkedin.com/in/ilnaz-mannapov-78a4ba191/).
+My [Developer Account in Google Play](https://play.google.com/store/apps/developer?id=MslmTatSoft).
 
 ## CV
 - 2013-2014 - Sysadmin in [ITPlus](http://itplus.ru/)
@@ -13,7 +14,8 @@ My [LinkedIn Page](https://www.linkedin.com/in/ilnaz-mannapov-78a4ba191/).
 - 2015-2017 - Mobile Developer in [HalalGuide](https://halalguide.me/kazan)
 - 2017-2019 - Android Developer in [Technokratos](https://technokratos.com/)
 - 2019-present - Android Developer in X5 Retail Group
-- 2020-2020 - Junior researcher in Kazan Federal University
+- 2020-2020 - Junior researcher in [Kazan Federal University](https://kpfu.ru)
+- 2017-2020 - IOS and Android Developer in [DostavkaLab](https://dostavkalab.ru/)
 
 ## Education
 - 2009-2014 - Kazan Federal University, Institute of Computer Mathematics and Information Technologies
