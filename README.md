@@ -16,9 +16,10 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 - 2014-2016 - teacher in [Samsung IT School](https://myitschool.ru/)
 - 2015-2017 - Mobile Developer in [HalalGuide](https://halalguide.me/kazan)
 - 2017-2019 - Android Developer in [Technokratos](https://technokratos.com/)
-- 2019-present - Android Developer in [X5 Retail Group](https://www.x5.ru/ru)
 - 2020-2020 - Junior researcher in [Kazan Federal University](https://kpfu.ru)
 - 2017-2020 - IOS and Android Developer in [DostavkaLab](https://dostavkalab.ru/)
+- 2019-2021 - Android Developer in [X5 Retail Group](https://www.x5.ru/ru)
+- 2021-present - Android Developer in [AssistAgro](https://assistagro.com/)
 
 ## Education
 - 2009-2014 - Kazan Federal University, Institute of Computer Mathematics and Information Technologies
@@ -39,6 +40,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 - ...
 
 ## Papers
+- [Scopus] Khadiev K, Mannapov I, Safina L., Classical and quantum improvements of generic decision tree constructing algorithm for classification problem//CEUR Workshop Proceedings. - 2021. - Vol.2842, Is.. - P.83-93.
 - [Scopus] Khadiev K., Khadieva A., Mannapov I. — Quantum Online Algorithms with Respect to Space and Advice Complexity. — // Lobachevskii Journal of Mathematics. — 2018. — Т. 39, No 9. — С. 1377—1387.
 - [Scopus] Khadiev K., Mannapov I., Safina L. — The Quantum Version Of Classification Decision Tree Constructing Algorithm C5.0. — // CEUR Workshop Proceedings. — 2019. — Т. 2500.
 - Маннапов И. М., Сафина Л. И., Хадиев К. Р. — Квантовое улучшение алгоритма построения деревьев решений C5.0 для задач классификации. — // Материалы XIII Международного семинара «Дискретная математика и ее приложения» , имени академика О. Б. Лупанова (Москва, МГУ, 17–22 июня 2019 г.) — 2019. — С. 135—137.
