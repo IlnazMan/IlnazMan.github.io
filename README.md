@@ -19,7 +19,8 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 - 2020-2020 - Junior researcher in [Kazan Federal University](https://kpfu.ru)
 - 2017-2020 - IOS and Android Developer in [DostavkaLab](https://dostavkalab.ru/)
 - 2019-2021 - Android Developer in [X5 Retail Group](https://www.x5.ru/ru)
-- 2021-present - Android Developer in [AssistAgro](https://assistagro.com/)
+- 2021-2023 - Android Developer in [AssistAgro](https://assistagro.com/)
+- 2023-present - Android Developer in [Tinkoff](https://www.tinkoff.ru/)
 
 ## Education
 - 2009-2014 - Kazan Federal University, Institute of Computer Mathematics and Information Technologies
@@ -37,6 +38,7 @@ My [Developer Account in Google Play](https://play.google.com/store/apps/develop
 - WebSockets, REST API
 - Gradle, Retrofit, Gson, OkHttp
 - GeoLocation, Maps, Firebase, Push Notifications
+- Jetpack Compose
 - ...
 
 ## Papers
