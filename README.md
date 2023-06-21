@@ -5,10 +5,12 @@ Besides my professional careers, I'm interested in science. I'm a junior researc
 
 I like to read the books. I prefer historical, scientific, non-fiction books. Periodically I read some self-development stuff.
 
-My personal page in [KPFU](https://kpfu.ru/ilnaz.mannapov). 
-My [CV page in HH](https://kazan.hh.ru/resume/75fac962ff01de33590039ed1f797579787850). 
-My [LinkedIn Page](https://www.linkedin.com/in/ilnaz-mannapov-78a4ba191/).
-My [Developer Account in Google Play](https://play.google.com/store/apps/developer?id=MslmTatSoft).
+## Related links
+- personal page in [KPFU](https://kpfu.ru/ilnaz.mannapov). 
+- [CV page in HH](https://kazan.hh.ru/resume/75fac962ff01de33590039ed1f797579787850). 
+- [LinkedIn Page](https://www.linkedin.com/in/ilnaz-mannapov-78a4ba191/).
+- [Developer Account in Google Play](https://play.google.com/store/apps/developer?id=MslmTatSoft).
+- [ORCID page](https://orcid.org/0000-0003-0347-2137)
 
 ## CV
 - 2013-2014 - Sysadmin in [ITPlus](http://itplus.ru/)
