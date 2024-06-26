@@ -21,7 +21,7 @@ I like to read the books. I prefer historical, scientific, non-fiction books. Pe
 - 2020-2020 - Junior researcher in [Kazan Federal University](https://kpfu.ru)
 - 2017-2020 - IOS and Android Developer in [DostavkaLab](https://dostavkalab.ru/)
 - 2019-2021 - Android Developer in [X5 Retail Group](https://www.x5.ru/ru)
-- 2021-2023 - Android Developer in [AssistAgro](https://assistagro.com/)
+- 2021-2023 - Android Developer in [AssistAgro](https://agroassist.ru/)
 - 2023-present - Android Developer in [Tinkoff](https://www.tinkoff.ru/)
 
 ## Education
